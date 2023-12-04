@@ -32,6 +32,7 @@ typing-extensions = "==4.8.0"
 werkzeug = "==3.0.1"
 flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
+flask-sqlalchemy = "*"
 
 [dev-packages]
 
